@@ -36,8 +36,4 @@ Vous avez trouvé un bug ou avez une idée ? Ouvrez une issue sur notre [GitHub 
 
 Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 🙏 Acknowledgments
 
-Un grand merci à nos incroyables contributeurs qui ont aidé à façonner et améliorer ce projet.
-
-Bonnes expériences de test ! 🌐🔍
