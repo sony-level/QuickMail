@@ -24,7 +24,7 @@ npm run dev
 
 ## 🚀 Pour Commencer
 
-1. Visitez [QuickMail](https://fake-mail-generator.vercel.app/).
+1. Visitez [QuickMail](https://quickmail.level-sony.fr/).
 2. Cliquez sur le bouton "Générer" pour obtenir une adresse email aléatoire.
 3. Copiez l'adresse email générée et utilisez-la facilement pour vos besoins de test.
 
