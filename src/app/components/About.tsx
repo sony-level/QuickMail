@@ -1,16 +1,15 @@
-const About = () => {
+import React from 'react';
+
+const About: React.FC = () => {
   return (
-    <div className="about bg-[#0099FF] w-full h-fit text-white p-5 flex flex-col gap-4 overflow-hidden">
-      <h1 className="text-3xl font-bold">À PROPOS</h1>
-      <hr className="w-16 h-2 bg-white"></hr>
-      <p className="text-sm">
-        Bienvenue sur QuickMail, la destination en ligne ultime pour les personnes qui valorisent leur vie privée et recherchent des solutions de messagerie pratiques. Notre plateforme innovante vous permet de générer des adresses e-mail temporaires sans effort, vous offrant un moyen sûr et fiable de communiquer sans compromettre vos informations personnelles.
+    <div className="about-container p-5 bg-white shadow-md rounded-lg">
+      <h1 className="text-2xl font-bold mb-4">À propos de Quick Mail</h1>
+      <p className="text-base text-gray-700">
+        Quick Mail est un service de messagerie temporaire qui vous permet de créer une adresse email aléatoire et de recevoir des messages.
+        C&apos;est parfait pour s&apos;inscrire sur des sites web qui nécessitent une vérification par email mais vous ne voulez pas utiliser votre adresse email personnelle.
       </p>
-      <p className="text-sm">
-        Grâce à notre interface conviviale, vous pouvez rapidement générer une adresse e-mail temporaire en quelques clics. Ces adresses e-mail sont entièrement fonctionnelles, vous permettant de recevoir des messages, des pièces jointes et des e-mails de vérification selon vos besoins. Votre boîte de réception temporaire est facilement accessible, vous permettant de vérifier les communications importantes tout en gardant votre compte e-mail principal dégagé et protégé des menaces potentielles.
-      </p>
-      <p className="text-sm">
-        Protégez votre vie privée et simplifiez votre communication en ligne avec QuickMail. Commencez à générer des adresses e-mail temporaires dès aujourd'hui et profitez d'un moyen sûr et sans tracas de participer à des activités en ligne tout en gardant vos informations personnelles sécurisées. Gardez le contrôle de votre présence numérique et profitez de la tranquillité d'esprit que vous méritez.
+      <p className="text-base text-gray-700 mt-4">
+        Notez que ces adresses email sont temporaires et que la boîte de réception sera périodiquement effacée. Veuillez ne pas utiliser ce service pour des communications sensibles ou importantes.
       </p>
     </div>
   );
