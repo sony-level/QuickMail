@@ -11,6 +11,9 @@ const About: React.FC = () => {
       <p className="text-base text-gray-700 mt-4">
         Notez que ces adresses email sont temporaires et que la boîte de réception sera périodiquement effacée. Veuillez ne pas utiliser ce service pour des communications sensibles ou importantes.
       </p>
+      <p className="text-base text-gray-700 mt-4">
+        Pour plus d&apos;informations, visitez le <a href="https://github.com/sony-level/QuickMail" target="_blank" rel="noopener noreferrer">répertoire GitHub</a> du projet.
+      </p>
     </div>
   );
 };
