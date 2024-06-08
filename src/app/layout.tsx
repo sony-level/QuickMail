@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Quick Mail',
-  description: 'Welcome to Temporary Mail Generator, the ultimate online destination for individuals who value their privacy and seek convenient email solutions. Our innovative platform allows you to generate temporary email addresses effortlessly, providing you with a secure and reliable way to communicate without compromising your personal information.',
+  description: 'Reste anonyme dans la reception de tes mails',
 }
 
 export default function RootLayout({
