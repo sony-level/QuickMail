@@ -1,0 +1,14 @@
+{
+  "cssImports": {
+    "C:\\Users\\level sony\\Downloads\\FakeMailGenerator-master\\FakeMailGenerator-master\\src\\app\\layout.tsx": [
+      "C:\\Users\\level sony\\Downloads\\FakeMailGenerator-master\\FakeMailGenerator-master\\src\\app\\globals.css",
+      "C:\\Users\\level sony\\Downloads\\FakeMailGenerator-master\\FakeMailGenerator-master\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\level sony\\Downloads\\FakeMailGenerator-master\\FakeMailGenerator-master\\src\\app\\page": [
+      "C:\\Users\\level sony\\Downloads\\FakeMailGenerator-master\\FakeMailGenerator-master\\src\\app\\globals.css",
+      "C:\\Users\\level sony\\Downloads\\FakeMailGenerator-master\\FakeMailGenerator-master\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
